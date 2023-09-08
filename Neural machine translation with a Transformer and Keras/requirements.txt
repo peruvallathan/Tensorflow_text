@@ -1,0 +1,5 @@
+matplotlib
+numpy
+tensorflow
+tensorflow_datasets
+tensorflow_text

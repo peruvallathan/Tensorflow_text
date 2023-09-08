@@ -1,0 +1,11 @@
+einops
+matplotlib
+numpy
+pandas
+Pillow
+Requests
+tensorflow
+tensorflow_datasets
+tensorflow_hub
+tensorflow_text
+tqdm
